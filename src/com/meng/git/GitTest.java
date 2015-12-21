@@ -12,5 +12,6 @@ public class GitTest {
 		System.out.println("remote server pulltest02!");
 		System.out.println("remote server pulltest03!");
 		System.out.println("local server to remove server01");
+		System.out.println("local server to remove server02");
 	}
 }
